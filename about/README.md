@@ -11,5 +11,4 @@
 
 
 
-![](../img/artificial-intelligence.jpg)
 
